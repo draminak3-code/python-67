@@ -1,0 +1,6 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Media build artifacts (Manim output)
+media/
